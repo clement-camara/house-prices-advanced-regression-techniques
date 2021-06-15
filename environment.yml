@@ -1,0 +1,28 @@
+name: ecology_project
+channels:
+  - https://conda.atoti.io
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter_nbextensions_configurator
+  - pandas-profiling
+  - scikit-learn
+  - sqlalchemy
+  - geopy
+  - altair
+  - plotly
+  - requests
+  - bs4
+  - jupyter_latex_envs
+  - ipython
+  - pymc3
+  - tweepy
+  - pyspark
+  - textblob
+  - termcolor
+  - category_encoders
+  - tpot
+  - pandas
+  - spyder
+prefix: /Users/marinelafargue/anaconda3/envs/ecology_project
