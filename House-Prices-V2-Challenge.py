@@ -247,11 +247,6 @@ st.write(final_df)
 
 
 
-compression_opts = dict(method='zip',
-                        archive_name='S.csv')
-final_df.to_csv('S.zip', index=False,
-          compression=compression_opts)
-
 
 
 
