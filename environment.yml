@@ -4,7 +4,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - streamlit
   - python=3.8
   - matplotlib
   - jupyter_nbextensions_configurator
